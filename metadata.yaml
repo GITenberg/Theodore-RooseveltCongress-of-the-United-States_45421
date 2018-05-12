@@ -1,0 +1,28 @@
+_repo: Theodore-RooseveltCongress-of-the-United-States_45421
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45421-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lodge, Henry Cabot
+    birthdate: 1850
+    deathdate: 1924
+    gutenberg_agent_id: '728'
+    url: http://www.gutenberg.org/2009/agents/728
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cabot_Lodge
+description: ''
+gutenberg_issued: '2014-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E740'
+- !lcsh 'Roosevelt, Theodore, 1858-1919'
+title: "Theodore Roosevelt\r\nAn Address Delivered by Henry Cabot Lodge Before the\
+  \ Congress of the United States"
+url: http://www.gutenberg.org/ebooks/45421
